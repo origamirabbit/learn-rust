@@ -1,9 +1,12 @@
 **/*.rs.bk
+debug
 target
 Cargo.lock
+*.pdb
+#
+.DS_Store
 .vscode
 .idea
 node_modules
 pkg
 dist
-.DS_Store
